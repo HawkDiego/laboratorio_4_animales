@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/servicios/">
+    <Project Path="servicios/lib_aplicaciones/lib_aplicaciones.csproj" />
+    <Project Path="servicios/servicios_aplicaciones/servicios_aplicaciones.csproj" />
+  </Folder>
+  <Folder Name="/presentacion/">
+    <Project Path="presentacion/lib_aplicaciones/lib_aplicaciones.csproj" />
+    <Project Path="presentacion/web_presentacion/web_presentacion.csproj" />
+  </Folder>
+</Solution>
