@@ -1,10 +1,10 @@
 <Solution>
   <Folder Name="/servicios/">
-    <Project Path="servicios/lib_aplicaciones/lib_aplicaciones.csproj" />
-    <Project Path="servicios/servicios_aplicaciones/servicios_aplicaciones.csproj" />
+    <Project Path="servicios/animales_lib/animales_lib.csproj" />
+    <Project Path="servicios/animales_servicios/animales_servicios.csproj" />
   </Folder>
   <Folder Name="/presentacion/">
-    <Project Path="presentacion/lib_aplicaciones/lib_aplicaciones.csproj" />
-    <Project Path="presentacion/web_presentacion/web_presentacion.csproj" />
+    <Project Path="presentacion/animales_lib/animales_lib.csproj" />
+    <Project Path="presentacion/animales_web_presentacion/animales_web_presentacion.csproj" />
   </Folder>
 </Solution>

@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="lib_aplicaciones/lib_aplicaciones.csproj" />
-  <Project Path="web_presentacion/web_presentacion.csproj" />
+  <Project Path="animales_lib/animales_lib.csproj" />
+  <Project Path="animales_web_presentacion/animales_web_presentacion.csproj" />
 </Solution>
