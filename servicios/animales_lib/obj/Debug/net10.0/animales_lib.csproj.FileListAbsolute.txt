@@ -1,0 +1,13 @@
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/bin/Debug/net10.0/animales_lib.deps.json
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/bin/Debug/net10.0/animales_lib.dll
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/bin/Debug/net10.0/animales_lib.pdb
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/animales_lib.csproj.AssemblyReference.cache
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/animales_lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/animales_lib.AssemblyInfoInputs.cache
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/animales_lib.AssemblyInfo.cs
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/animales_lib.csproj.CoreCompileInputs.cache
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/animales_lib.sourcelink.json
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/animales_lib.dll
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/refint/animales_lib.dll
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/animales_lib.pdb
+/Users/diegogiraldo/Desktop/desarrollo de software/practica_4/servicios/animales_lib/obj/Debug/net10.0/ref/animales_lib.dll
